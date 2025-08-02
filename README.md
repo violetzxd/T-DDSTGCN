@@ -1,7 +1,7 @@
 # Robustness Testing for Autonomous Driving in Urban Environments
 
-This repository accompanies the ASE 2025 submission:
-**"Robustness ADS Testing in Urban Environments: A Regional Scenario-Based Approach"**.
+This repository accompanies the AAAI 2026 submission:
+**"City-Adaptive Testing of Autonomous Driving Systems with Traffic Prediction and Scenario Fuzzing"**.
 
 ## 🚘 Overview
 
